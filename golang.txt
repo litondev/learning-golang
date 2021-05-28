@@ -1,0 +1,12 @@
+go mod init example.com/hello
+
+go run .
+
+# package search pkg.go.dev 
+
+# import "rsc.io/quote"
+# fmt.Println(quote.Go())
+
+go mod tidy
+
+go run .
