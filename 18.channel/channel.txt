@@ -1,0 +1,1 @@
+channel digunakan dengan goroutine atau bisa dikatakan channel adalah pengtaur goroutine

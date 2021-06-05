@@ -1,0 +1,1 @@
+goroutine adalah sebuah proses di golang yang berjalan secara asnyc
